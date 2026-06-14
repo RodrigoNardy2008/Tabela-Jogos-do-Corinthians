@@ -1,0 +1,15 @@
+.fundo{
+            background-image: url(https://www.meutimao.com.br/_upload/wallpapers/corinthians_em_widescreen_e_alta_definicao_tw_1920x1080.jpg);
+            width: 200%;
+            height: 1000px;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+         table, th, td{
+        border: 3px solid black;
+        border-collapse: collapse ;
+         }
+         th{
+            color: white;
+         }  
